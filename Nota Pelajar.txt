@@ -1,0 +1,12 @@
+HeiTech WIFI
+Password: HJRQ5EB5FD7
+SSID: HUAWEI-B618-4AFE
+
+Training Material
+GitHub.com/isk6708
+Repo - git-series
+
+GitLab.com/isk6708
+Repo - mygitlab
+Branch - nov-2026
+

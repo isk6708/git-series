@@ -10,5 +10,40 @@ GitLab.com/isk6708
 Repo - mygitlab
 
 Branch - nov-2026
+---------------------------
+browser ke github->log in
+via webui - create repository - htp-lab1
+htp-lab1 - remote repository
+
+local repository 
+	- our own machine 
+	- staging server
+	- UAT/PAT/FAT server
+	- production server
+
+------ in our machine -----
+empty folder / new folder
+existing folder
+
+new folder / empty folder 
+- git clone - remote repo -> local repo
+
+existing folder
+- git init - local repo -> remote repo
+
+git command / jargon
+-------------------------
+git clone
+git status
+git add 
+git commit 
+git push
+git pull
+git init
+git branch -M main
+git branch
+
+
+
 
 

@@ -36,14 +36,30 @@ git command / jargon
 git clone
 git status
 git add 
-git commit 
+git commit -m "Proper message"
 git push
 git pull
 git init
 git branch -M main
 git branch
 
+link local repo with remo repo
+
+git remote add htp-lab12 https://github.com/isk6708/htp-lab12.git
+
+git push -uf htp-lab12 main
 
 
 
 
+
+git config --global pull.rebase true
+https://share.google/aimode/kvjeOMUwrC28Snwat
+
+
+Day 2
+git checkout <branchname>
+git switch -c <newbranchname>
+
+
+docker run -d -p 8128:80 -v php-sqlite-data:/var/www/html/data --name my-app ghcr.io/<username>/<repo name>:latest
